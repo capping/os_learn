@@ -1,0 +1,6 @@
+before fork
+before fork2
+pid = 5264, glob = 7, var = 89
+before fork
+before fork2
+pid = 5263, glob = 6, var = 88
